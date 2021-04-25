@@ -4,6 +4,6 @@ The respiratory here contains reference code to refer to when wanting to refresh
 
 
 
-### Log 001 | Writing to output file using fstream
+#### Log 001 | Writing to output file using fstream
 Source Code Name: output.cpp
 
